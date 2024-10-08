@@ -23,7 +23,6 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ## Learn More
 
 ✨ Key Features:
-
 Real-time speech recognition
 User-friendly interface designed with Tailwind CSS
 Fast and efficient processing using Next.js
